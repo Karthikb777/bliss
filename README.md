@@ -8,8 +8,8 @@ features:
   
 This app is offline and all the notes and todos are stored in an sqlite database.
 
-You can download the app [here.]()
+You can download the app [here.](https://github.com/Karthikb777/bliss/releases/tag/v1.0)
 
-Check out my other projects [here.]()
+Check out my other projects [here.](https://github.com/Karthikb777/)
 
 
